@@ -9,6 +9,7 @@ readme = "README.md"
 repository = "http://github.com/SSheldon/rust-objc-id"
 documentation = "http://ssheldon.github.io/rust-objc/objc_id/"
 license = "MIT"
+license-file = "LICENSE-MIT"
 
 exclude = [".gitignore"]
 
